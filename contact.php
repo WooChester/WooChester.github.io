@@ -1,7 +1,7 @@
 <?php
 	
 
-	/*
+	
 	echo "HELLO" . "WORLD";
 	
 	$name = $_POST['name'];
@@ -31,5 +31,5 @@
 	
 	header("Location: indexBetterWebsite.html");
 
-	*/
+	
 ?>
