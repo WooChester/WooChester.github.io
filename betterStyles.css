@@ -498,6 +498,8 @@ div.parallax1, div.parallax2 {
 	vertical-align: top;
 	position: sticky;
 	top: 10%;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
 }
 
 
@@ -509,7 +511,8 @@ div.parallax1, div.parallax2 {
 	padding: 1%;
 	color: white;
 	vertical-align: top;
-	
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
 }
 
 .project {
