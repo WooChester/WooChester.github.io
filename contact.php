@@ -26,10 +26,6 @@
 	$current = file_get_contents($file);
 	$current .= "$email_body";
 	file_put_contents($file, $current);
-	
-	mail($to, $email_subject, $email_body, $headers);
-	
-	header("Location: indexBetterWebsite.html");
 
 	
 ?>
