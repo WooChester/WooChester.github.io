@@ -1,7 +1,7 @@
 <?php
 	
-
-	
+	echo "Hello" ."World";
+	/*
 	echo "HELLO" . "WORLD";
 	
 	$name = $_POST['name'];
@@ -26,6 +26,6 @@
 	$current = file_get_contents($file);
 	$current .= "$email_body";
 	file_put_contents($file, $current);
-
+	*/
 	
 ?>
